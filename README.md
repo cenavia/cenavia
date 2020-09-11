@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and  software seveloper specialist in Frontend.
+- 🤔 &nbsp; Exploring new technologies and  software developer specialist in Frontend.
 - 🎓 &nbsp; Systems Engineer at University of UNAD.
 - 💼 &nbsp; Working as a Instructor Development and investigator in IoT and RA developer.
 - 🌱 &nbsp; Learning more about Backend, IoT, Systems Design and Artificial Intelligence.
