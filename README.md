@@ -11,7 +11,7 @@
 
 - 💻 &nbsp; Python | Java | PHP |
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
-- 🛢 &nbsp; MySQL | MongoDB
+- 🛢 &nbsp; MySQL | PostgreSQL
 - 🔧 &nbsp; Git | Markdown |
 - 🖥 &nbsp; Illustrator| Photoshop | Figma
 
