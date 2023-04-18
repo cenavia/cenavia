@@ -9,9 +9,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | PHP |
+- 💻 &nbsp; Python | Java | PHP |C#
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
-- 🛢 &nbsp; MySQL | PostgreSQL
+- 🛢 &nbsp; MySQL | PostgreSQL|MongoDB
 - 🔧 &nbsp; Git | Markdown |
 - 🖥 &nbsp; Illustrator| Photoshop | Figma
 
